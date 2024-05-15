@@ -1,1 +1,5 @@
 credentials.py
+.idea
+__pycache__
+my_env
+assets
